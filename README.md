@@ -4,7 +4,7 @@
 
 # java stream
 
-
+> 配套视频：https://www.bilibili.com/video/av91899631
 
 ## Stream是什么
 
